@@ -1,7 +1,7 @@
 # Online-Immediate-Commitment-Job-Scheduling-A-Machine-Learning-Approach
 Experiment with a Machine Learning approach for job scheduling on parallel machines with immediate commitment.  This project aims at studying the possibilities for the machine to learn something from the job scheduling environment. The machine should then be able to accept or reject the incoming job with immediate commitment, based on its judgement of the current states of the machines and the properties of the incoming job.
 
-# What Is Here:
+# Overview:
 In this repositiory you will find the python script prepared in jupyter notebook for the implemented machine learning approach. 
 The file: OnlineImmediateCommitmentJobScheduling_AMachineLearningApproach.ipynb will run the learning part and 
 the file: OnlineImmediateCommitmentJobScheduling_AMachineLearningApproach_Test.ipynb will run the testing part.
